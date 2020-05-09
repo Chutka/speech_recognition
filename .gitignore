@@ -6,3 +6,7 @@ __pycache__
 
 # Poetry files
 poetry.lock
+
+# Some files (audio, text and etc.)
+*.wav
+*.txt
